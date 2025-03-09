@@ -13,7 +13,7 @@
   sudo apt install openjdk-17-jre'''
 
    Verify Java installed or not
-    java --version
+    'java --version'
  
   Now, you can proceed with installing Jenkins
   
