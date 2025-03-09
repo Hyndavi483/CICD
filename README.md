@@ -6,4 +6,4 @@ Instances(running)
 
 Launch instances
 
-![Uploading image.png…]()
+
