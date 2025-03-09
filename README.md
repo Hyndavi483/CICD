@@ -1,7 +1,6 @@
 # Jenkins Installation
-
-Go to AWS Console
-Instances(running)
-Launch instances
+- Go to AWS Console
+- Instances(running)
+- Launch instances
 
 
