@@ -6,9 +6,9 @@ Instead of writing the same code again and again in multiple pipelines, you can 
 Think of it like a library of books, Instead of buying the same book over and over again, you can borrow it from the library whenever you need it.
 
 Advantages
-Standarization of Pipelines
-Reduce duplication of code
-Easy onboarding of new applications, projects or teams
-One place to fix issues with the shared or common code
-Code Maintainence
-Reduce the risk of errors
+- Standarization of Pipelines
+- Reduce duplication of code
+- Easy onboarding of new applications, projects or teams
+- One place to fix issues with the shared or common code
+- Code Maintainence
+- Reduce the risk of errors
